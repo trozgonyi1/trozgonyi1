@@ -1,5 +1,9 @@
-### Hi there 👋
+# Tommy Rozgonyi
 
+**`Student | Programmer`**
+
+
+I am a first-year student at the University of Notre Dame studying Computer Science and Mathematics. I have been interested in tech my whole life, and picked up coding early in high school. I am a big believer in 
 <!--
 **trozgonyi1/trozgonyi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

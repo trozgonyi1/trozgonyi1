@@ -3,7 +3,7 @@
 **`Student | Programmer`**
 
 
-I am a first-year student at the University of Notre Dame studying Computer Science and Mathematics. I have been interested in tech my whole life, and picked up coding early in high school. I am a big believer in self-learning and self-study. 
+I am a first-year student at the University of Notre Dame studying Computer Science and Mathematics. I have been interested in tech my whole life, and picked up coding early in high school. Coding has become a great passion of mine, and I look forward to pusuing a career in tech. I've found theres nothing more fullfilling than the poblem solving that this field provides, and I can't wait to find more problems as I study!
 ___
 ### 🧰 Languages and Tools
 

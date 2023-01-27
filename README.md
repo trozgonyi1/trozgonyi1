@@ -5,6 +5,11 @@
 
 I am a first-year student at the University of Notre Dame studying Computer Science and Mathematics. I have been interested in tech my whole life, and picked up coding early in high school. Coding has become a great passion of mine, and I look forward to pusuing a career in tech. I've found theres nothing more fullfilling than the poblem solving that this field provides, and I can't wait to find more problems as I study!
 ___
+### 📘 Recent Interests
+`Quantum Computing`
+
+I have recently been exploring the field of quantum computing, throught the IBM Qiskit textbook. The most interesting aspect of this technology has been the mathematics; I've been enjoying the linear algebra aspect and quantum mechanics this textbook has taught me. I will be taking the certification exam withing the week, and plan to continue researching this new field throughout my semester.  
+___
 ### 🧰 Languages and Tools
 
 <img align="left" height="40px" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -23,13 +28,13 @@ ___
 
 #
 
-<h3>🔭 I'm currently collaborating on:</h2>
+<h3>🔭 I'm currently collaborating on:</h3>
 
 `IrishSAT`
 
 Notre Dame club working in conjunction with NASA's cubesat initiative. I am a member of the *"Ground Station"* team, focused on developing software to track and communicate with satellites.
 
-`Varden Real Estate Data Collection SPA`
+`Varden Real Estate`
 
-I have been colaborating with a Notre Dame startup and building a single page app to collect data from potential clients. This project has given me a chance to learn how to integrate a PostgreSQL database into a react app.
+I am the CTO of the Varden Real Estate startup, where we have been working on a real estate investment platform. This app will be built on a NextJS front-end, with an AWS cloud-based backend architecture. 
 

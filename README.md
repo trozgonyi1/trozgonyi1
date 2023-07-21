@@ -8,7 +8,7 @@ ___
 ### 📘 Recent Interests
 `Quantum Computing`
 
-I have recently been exploring the field of quantum computing, throught the IBM Qiskit textbook. The most interesting aspect of this technology has been the mathematics; I've been enjoying the linear algebra aspect and quantum mechanics this textbook has taught me. I will be taking the certification exam withing the week, and plan to continue researching this new field throughout my semester.  
+I have recently been exploring the field of quantum computing, throught the IBM Qiskit textbook and many other books. The most interesting aspect of this technology has been the mathematics; I've been enjoying the linear algebra aspect and quantum mechanics I have learned. I have earned the IBM Quantum Computing developer certification, and am looking forward to learning more.  
 ___
 ### 🧰 Languages and Tools
 
@@ -37,5 +37,5 @@ Notre Dame club working in conjunction with NASA's cubesat initiative. I am a me
 
 `Varden Real Estate`
 
-I am the CTO of the Varden Real Estate startup, where we have been working on a real estate investment platform. This app will be built on a NextJS front-end, with an AWS cloud-based backend architecture. 
+I am the CTO Varden Real Estate, a startup focused on fractionalized investment of high value assets. This app is being built with a NextJS front-end, with Vercel cloud servers and a PostgreSQL database. 
 

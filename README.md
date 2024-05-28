@@ -31,13 +31,13 @@ ___
 
 <h3>🔭 I'm currently collaborating on:</h3>
 
-`IrishSAT`
+`Practical Implimentations of Homomorphic Encryption`
 
-Notre Dame club working in conjunction with NASA's cubesat initiative. I am a member of the *"Ground Station"* team, focused on developing software to track and communicate with satellites.
+I am working with Professor Taeho Jung using lattice based cryptography to create a practically useable homomorphic encryption scheme. Homomorphic encryption allows one to conduct computations directly on encrypted data, giving birth to various innovations for solving data security and individual privacy in the cyberspace nowadays.
 
 `Varden Real Estate`
 
-I am the CTO of Varden Real Estate, a Web3 startup focused on fractionalized investment of tokenized commercial real estate. This app is being built with a NextJS front-end, with Vercel cloud servers on the Ethereum mainnet.
+I am the CTO of Varden Real Estate, a Web3 startup focused on fractionalized investment of tokenized commercial real estate. This app is being built with a NextJS front-end, with Vercel cloud servers, and the Ethereum mainnet. We are currently participating in a Notre Dame startup accelerator.
 
 <h3>💼 Work Experience</h3>
 <img align="left" height="60px" width="60px" style="padding-right:10px" src="https://seeklogo.net/wp-content/uploads/2020/08/ups-logo.png" />

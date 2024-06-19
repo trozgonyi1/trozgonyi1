@@ -37,7 +37,7 @@ I am working with Professor Taeho Jung using lattice based cryptography to creat
 
 `Varden`
 
-I am the founder of Varden Real Estate, a Web3 startup focused on fractionalized investment of tokenized commercial real estate. This app is being built with a NextJS front-end, with Vercel cloud servers, on the new state-of-the-art Plume network. We are currently participating in a Notre Dame startup accelerator in a cohort of 11 teams. https://joerozgonyi1.gitbook.io/varden-real-estate-white-paper
+I am the founder of Varden Real Estate, a Web3 startup focused on fractionalized investment of tokenized commercial real estate. This app is being built with a NextJS front-end, with Vercel cloud servers, on the new state-of-the-art Plume network. We are currently participating in a Notre Dame startup accelerator in a cohort of 11 teams. [Varden whitepaper](https://joerozgonyi1.gitbook.io/varden-real-estate-white-paper)
 
 <h3>💼 Work Experience</h3>
 <img align="left" height="60px" width="60px" style="padding-right:10px" src="https://seeklogo.net/wp-content/uploads/2020/08/ups-logo.png" />

@@ -3,12 +3,12 @@
 **`Student | Programmer`**
 
 
-I am a junior student at the University of Notre Dame studying Computer Science and Mathematics. I have been interested in tech my whole life, and picked up coding early in high school. Coding has become a great passion of mine, and I look forward to pursuing a career in tech. I've found theres nothing more fullfilling than the poblem solving that this field provides, and I can't wait to find more problems as I study!
+I am a junior student at the University of Notre Dame studying Computer Science and Mathematics. I have been interested in tech my whole life, and picked up coding early in high school. Coding has become a great passion of mine, and I look forward to pursuing a career applying computer science principles to real world problems. I've found theres nothing more fullfilling than the poblem solving that this field provides, and I can't wait to find more problems as I study!
 ___
-### 📘 Recent Interests
-`Quantum Computing`
+### 📘 Currently Im...
+`Budapest Semesters in Mathematics`
 
-I have recently been exploring the field of quantum computing, throught the IBM Qiskit textbook and many other books. The most interesting aspect of this technology has been the mathematics; I've been enjoying the linear algebra aspect and quantum mechanics I have learned. I have earned the IBM Quantum Computing developer certification, and am looking forward to learning more.  
+I am spending my Spring semester studying mathematics in Budapest, Hungary. This is a world renoun mathematics program taught by excellent Hungarian mathematicians in one of the most beautiful European cities. I am taking Real Function and Measures, Theory of Computing, Markov Chains and Dynamical Systems, Mathematics of Network Science, and Intermediate Hungarian Language. I am really enjoying this opportunity to more math during a single semester than I ever have.
 ___
 ### 🧰 Languages and Tools
 
@@ -29,15 +29,11 @@ ___
 
 #
 
-<h3>🔭 I'm currently collaborating on:</h3>
+<h3>🔭 Looking Forward:</h3>
 
-`Practical Implimentations of Homomorphic Encryption`
+`Balyasny Asset Management`
 
-I am working with Professor Taeho Jung using lattice based cryptography to create a practically useable homomorphic encryption scheme. Homomorphic encryption allows one to conduct computations directly on encrypted data, giving birth to various innovations for solving data security and individual privacy in the cyberspace nowadays.
-
-`Varden`
-
-I am the founder of Varden Real Estate, a Web3 startup focused on fractionalized investment of tokenized commercial real estate. This app is being built with a NextJS front-end, with Vercel cloud servers, on the new state-of-the-art Plume network. We are currently participating in a Notre Dame startup accelerator in a cohort of 11 teams. [Varden whitepaper](https://joerozgonyi1.gitbook.io/varden-real-estate-white-paper)
+I am excited to join the Balyasny Asset Management team for a Summer internship in New York City.
 
 <h3>💼 Work Experience</h3>
 <img align="left" height="60px" width="60px" style="padding-right:10px" src="https://seeklogo.net/wp-content/uploads/2020/08/ups-logo.png" />

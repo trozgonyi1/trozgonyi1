@@ -1,14 +1,18 @@
 # Tommy Rozgonyi
 
-**`Student | Programmer`**
+**`Mathematician | Programmer`**
 
 
-I am a senior student at the University of Notre Dame studying Computer Science and Mathematics. I have been interested in tech my whole life, and picked up coding early in high school. Coding has become a great passion of mine, and I look forward to pursuing a career applying computer science principles to real world problems. I've found theres nothing more fullfilling than the poblem solving that this field provides, and I can't wait to find more problems as I study!
+I am a graduate from the University of Notre Dame where I studied Computer Science and Mathematics. I have been interested in tech my whole life, and picked up coding early in high school. Coding has become a great passion of mine, and I look forward to pursuing a career applying computer science principles to real world problems. I've found there's nothing more fullfilling than the poblem solving that this field provides, and I can't wait to find more problems as I continue learning!
 ___
-### 📘 Currently Im...
+### 📘 My past experience...
+`University of Notre Dame`
+
+At the University of Notre Dame I studied CS and Math, taking lots of courses with Prof. Bui. I had jobs as a teaching assistant for discrete math, systems programming, and programming challenges, each during different semesters. I lived in Baumer Hall for 3 years where I managed our dorm resturant $Smugglers$ $Cove$
+
 `Budapest Semesters in Mathematics`
 
-I am spending my Spring semester studying mathematics in Budapest, Hungary. This is a world renoun mathematics program taught by excellent Hungarian mathematicians in one of the most beautiful European cities. I am taking Real Function and Measures, Theory of Computing, Markov Chains and Dynamical Systems, Mathematics of Network Science, and Intermediate Hungarian Language. I am really enjoying this opportunity to more math during a single semester than I ever have.
+I spent my spring semester of Junior year studying mathematics in Budapest, Hungary. This is a world renoun mathematics program taught by excellent Hungarian mathematicians in one of the most beautiful European cities. I took Real Function and Measures, Theory of Computing, Markov Chains and Dynamical Systems, Mathematics of Network Science, and Intermediate Hungarian Language. This was an incredible opportunity to more math during a single semester than I ever have.
 ___
 ### 🧰 Languages and Tools
 
@@ -32,4 +36,3 @@ I am excited to join the Balyasny Asset Management team in New York City full-ti
 
 <h3>💼 Work Experience</h3>
 <img align="left" height="60px" width="60px" style="padding-right:10px" src="https://seeklogo.net/wp-content/uploads/2020/08/ups-logo.png" />
-<img align="left" height="60px" width="80px" style="padding-right:10px" src="https://ww1.prweb.com/prfiles/2013/06/20/10810625/gI_59463_SMARTMD-Logo.jpg" />
